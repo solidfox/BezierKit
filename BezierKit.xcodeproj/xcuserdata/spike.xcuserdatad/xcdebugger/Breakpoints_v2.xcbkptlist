@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/UIBezierPath+SVGTest.swift"
+            timestampString = "425912939.153651"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "testSmoothCurvePath()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.UIBezierPath_SVGTest.testSmoothCurvePath (BezierKitTests.UIBezierPath_SVGTest)() -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVGTest.swift"
+                  timestampString = "425912811.412461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "801">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.UIBezierPath_SVGTest.(testSmoothCurvePath (BezierKitTests.UIBezierPath_SVGTest) -&gt; () -&gt; ()).(implicit closure #4)"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVGTest.swift"
+                  timestampString = "425912811.412766"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/UIBezierPath+SVG.swift"
+            timestampString = "426260037.129248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "cubicBezierPointsFromSmoothCurveArguments(relativeArguments:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1).(performOnUIBezierPath (ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1)) -&gt; (ObjectiveC.UIBezierPath, withArguments : Swift.Array&lt;Swift.Float&gt;, lastControlPoint : Swift.Optional&lt;C.CGPoint&gt;) -&gt; Swift.Optional&lt;C.CGPoint&gt;).(cubicBezierPointsFromSmoothCurveArguments #1) ((relativeArguments : Swift.Bool))Swift.Array&lt;ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1).CubicBezierPoint&gt; with unmangled suffix &quot;_promote0&quot;"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVG.swift"
+                  timestampString = "425912811.420644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "3818">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1).(performOnUIBezierPath (ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1)) -&gt; (ObjectiveC.UIBezierPath, withArguments : Swift.Array&lt;Swift.Float&gt;, lastControlPoint : Swift.Optional&lt;C.CGPoint&gt;) -&gt; Swift.Optional&lt;C.CGPoint&gt;).(cubicBezierPointsFromSmoothCurveArguments #1) ((relativeArguments : Swift.Bool))Swift.Array&lt;ObjectiveC.UIBezierPath.(init (ObjectiveC.UIBezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; ObjectiveC.UIBezierPath).(SVGCommand #1).CubicBezierPoint&gt; with unmangled suffix &quot;_promote0&quot;"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVG.swift"
+                  timestampString = "425912811.420938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "3835">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/UIBezierPath+SVGTest.swift"
+            timestampString = "425913017.568833"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "testSmoothCurvePath()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.UIBezierPath_SVGTest.testSmoothCurvePath (BezierKitTests.UIBezierPath_SVGTest)() -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVGTest.swift"
+                  timestampString = "425913125.140158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.UIBezierPath_SVGTest.(testSmoothCurvePath (BezierKitTests.UIBezierPath_SVGTest) -&gt; () -&gt; ()).(implicit closure #9)"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/UIBezierPath+SVGTest.swift"
+                  timestampString = "425913125.140479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPath+SVGTest.swift"
+            timestampString = "426469338.037932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "testCubicBezierPath()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath_SVGTest.testCubicBezierPath (BezierKitTests.BezierPath_SVGTest)() -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPath+SVGTest.swift"
+                  timestampString = "426261677.874258"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3298">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath_SVGTest.(testCubicBezierPath (BezierKitTests.BezierPath_SVGTest) -&gt; () -&gt; ()).(implicit closure #13)"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPath+SVGTest.swift"
+                  timestampString = "426261677.874525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPathTest.swift"
+            timestampString = "426432474.040756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "testCubicBezierPath()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPathTest.testCubicBezierPath (BezierKitTests.BezierPathTest)() -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPathTest.swift"
+                  timestampString = "426261677.874826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "4232">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPathTest.(testCubicBezierPath (BezierKitTests.BezierPathTest) -&gt; () -&gt; ()).(implicit closure #14)"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPathTest.swift"
+                  timestampString = "426261677.875049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPath+SVGTest.swift"
+            timestampString = "426469338.037932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "testCubicBezierPath()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath_SVGTest.testCubicBezierPath (BezierKitTests.BezierPath_SVGTest)() -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPath+SVGTest.swift"
+                  timestampString = "426261864.361238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3808">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath_SVGTest.(testCubicBezierPath (BezierKitTests.BezierPath_SVGTest) -&gt; () -&gt; ()).(implicit closure #15)"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKitTests/BezierPath+SVGTest.swift"
+                  timestampString = "426261864.362613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPath+SVGTest.swift"
+            timestampString = "426465549.376439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "testTrickyCurve()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/BezierPath+SVG.swift"
+            timestampString = "426465795.866035"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "addRelativeCubicBezierCurveToUIBezierPath(_:withPoints:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath.(init (BezierKitTests.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKitTests.BezierPath).(SVGCommand #1).addRelativeCubicBezierCurveToUIBezierPath (BezierKitTests.BezierPath.(init (BezierKitTests.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKitTests.BezierPath).(SVGCommand #1).Type)(BezierKitTests.BezierPath, withPoints : Swift.Array&lt;BezierKitTests.BezierElement&gt;) -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath+SVG.swift"
+                  timestampString = "426466166.205983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKit.BezierPath.(init (BezierKit.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKit.BezierPath).(SVGCommand #1).addRelativeCubicBezierCurveToUIBezierPath (BezierKit.BezierPath.(init (BezierKit.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKit.BezierPath).(SVGCommand #1).Type)(BezierKit.BezierPath, withPoints : Swift.Array&lt;BezierKit.BezierElement&gt;) -&gt; ()"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath+SVG.swift"
+                  timestampString = "426466166.209422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/CGPointExtensions.swift"
+            timestampString = "426466992.188914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "relativeToPoint(dx:dy:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C.CGPoint.relativeToPoint (C.CGPoint)(dx : Swift.Float, dy : Swift.Float) -&gt; C.CGPoint"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/CGPointExtensions.swift"
+                  timestampString = "426466997.134842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "950">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C.CGPoint.relativeToPoint (C.CGPoint)(dx : Swift.Float, dy : Swift.Float) -&gt; C.CGPoint"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/CGPointExtensions.swift"
+                  timestampString = "426466997.135017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "962">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C.CGPoint.relativeToPoint (C.CGPoint)(dx : Swift.Float, dy : Swift.Float) -&gt; C.CGPoint"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/CGPointExtensions.swift"
+                  timestampString = "426466997.13513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "950">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "C.CGPoint.relativeToPoint (C.CGPoint)(dx : Swift.Float, dy : Swift.Float) -&gt; C.CGPoint"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/CGPointExtensions.swift"
+                  timestampString = "426466997.135292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "962">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPath+SVGTest.swift"
+            timestampString = "426468774.06041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "testTrickyCurve()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/BezierPath.swift"
+            timestampString = "426467577.7195"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "BezierPath"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.addBezierElement (ObjectiveC.UIBezierPath)(BezierKitTests.BezierElement) -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426467686.428588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "455">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.addBezierElement (ObjectiveC.UIBezierPath)(BezierKit.BezierElement) -&gt; ()"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426467686.433023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "455">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/BezierPath.swift"
+            timestampString = "426467584.854007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "BezierPath"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.addBezierElement (ObjectiveC.UIBezierPath)(BezierKitTests.BezierElement) -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426467686.428977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ObjectiveC.UIBezierPath.addBezierElement (ObjectiveC.UIBezierPath)(BezierKit.BezierElement) -&gt; ()"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426467686.433329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/BezierPath+SVG.swift"
+            timestampString = "426469542.338739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "performOnUIBezierPath(_:withArguments:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath.(init (BezierKitTests.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKitTests.BezierPath).(SVGCommand #1).performOnUIBezierPath (BezierKitTests.BezierPath.(init (BezierKitTests.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKitTests.BezierPath).(SVGCommand #1))(BezierKitTests.BezierPath, withArguments : Swift.Array&lt;Swift.Float&gt;) -&gt; ()"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath+SVG.swift"
+                  timestampString = "426469542.342808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "3772">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKit.BezierPath.(init (BezierKit.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKit.BezierPath).(SVGCommand #1).performOnUIBezierPath (BezierKit.BezierPath.(init (BezierKit.BezierPath.Type) -&gt; (SVGdAttribute : Swift.String) -&gt; BezierKit.BezierPath).(SVGCommand #1))(BezierKit.BezierPath, withArguments : Swift.Array&lt;Swift.Float&gt;) -&gt; ()"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath+SVG.swift"
+                  timestampString = "426469542.343109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "3772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPathTest.swift"
+            timestampString = "426618726.144433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "testPointAtPercent()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPathTest.swift"
+            timestampString = "426617035.508612"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "testPointAtPercent()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKit/BezierPath.swift"
+            timestampString = "426706047.044064"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "compareTo(otherPath:withInvariances:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKitTests.BezierPath.compareTo (BezierKitTests.BezierPath)(otherPath : BezierKitTests.BezierPath, withInvariances : Swift.Array&lt;BezierKitTests.Invariant&gt;) -&gt; Swift.Float"
+                  moduleName = "BezierKitTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426674391.564495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "366"
+                  endingLineNumber = "366"
+                  offsetFromSymbolStart = "1457">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BezierKit.BezierPath.compareTo (BezierKit.BezierPath)(otherPath : BezierKit.BezierPath, withInvariances : Swift.Array&lt;BezierKit.Invariant&gt;) -&gt; Swift.Float"
+                  moduleName = "BezierKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spike/Dropbox/Developer/iOS/BezierKit/BezierKit/BezierPath.swift"
+                  timestampString = "426674391.568174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "366"
+                  endingLineNumber = "366"
+                  offsetFromSymbolStart = "1457">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BezierKitTests/BezierPathTest.swift"
+            timestampString = "426713768.709186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "testCompareTo()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
